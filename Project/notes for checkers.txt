@@ -1,0 +1,10 @@
+//CHECKERS 449
+
+For AI you need min_max trees
+
+source code from github download.
+75% of the code is provided to us, we need to do fill in the blanks ek hisaab source
+
+source code is long, so start early
+
+read the record syntax in learn you a haskell
